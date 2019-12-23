@@ -25,7 +25,7 @@
     },
     "require": {
         "php": "^7.3",
-        "phpspec/phpspec": "dev-5.1-fix",
+        "phpspec/phpspec": "*",
         "phpunit/php-code-coverage": "^5.0||^6.0"
     },
     "require-dev": {
